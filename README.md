@@ -1,5 +1,8 @@
 # sumedhachowdhury-05-03
-# 👋 Hi, I'm Sumedha Chowdhury  
+<h1 class="intro">
+  <span class="wave">👋</span> Hi, I'm <span class="name"> **Sumedha Chowdhury** </span> 😎
+</h1>
+
 
 🎓 **CSE Undergraduate | Data Science Specialization**  
 💡 Tech Enthusiast | Blockchain & Web3 Explorer | Frontend Learner  
