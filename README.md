@@ -19,14 +19,8 @@ I’m particularly passionate about **Blockchain, Web3, and Solidity**, and I’
 ### 💻 Programming Languages  
 - Python  
 - C  
-- Java  
-
-### 🌐 Frontend (Learning & Growing)  
-- HTML  
-- CSS  
-- React.js  
-- Next.js  
-
+- Java 
+  
 ### 🔗 Interests & Domains  
 - Blockchain  
 - Web3  
@@ -46,26 +40,40 @@ A sensor-based software system designed to detect unnoticed personal emergencies
 ---
 
 ## 🌱 Currently Learning  
-- Advanced React & Next.js  
+- HTML, CSS
+- React & Next.js  
 - Blockchain development with Solidity  
 - Building clean and responsive user interfaces  
 
 ---
 
-## 📫 Connect With Me  
+## 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/sumedha-chowdhury-a06647377" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
+  
+  <a href="https://x.com/Sumedha8698" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  
+  <a href="https://discord.com/users/sumedhachowdhury_79331" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.instagram.com/sumedha.05" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:sumedhachowdhury76@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
+
+✨ *Let’s connect, collaborate, and grow together!*
+
 
 ✨ *Always curious. Always learning. Always building.*
