@@ -53,6 +53,10 @@ A sensor-based software system designed to detect unnoticed personal emergencies
   <a href="https://www.linkedin.com/in/sumedha-chowdhury-a06647377" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="https://www.instagram.com/sumedha.05" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
   
   <a href="https://x.com/Sumedha8698" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -60,10 +64,6 @@ A sensor-based software system designed to detect unnoticed personal emergencies
   
   <a href="https://discord.com/users/sumedhachowdhury_79331" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.instagram.com/sumedha.05" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   
   <a href="mailto:sumedhachowdhury76@gmail.com">
