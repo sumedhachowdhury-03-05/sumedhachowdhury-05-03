@@ -76,6 +76,10 @@ A sensor-based software system designed to detect unnoticed personal emergencies
 
 ---
 
+## 👀 Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sumedhachowdhury-03-05&color=blue&style=flat-square)
+
 ✨ *Let’s connect, collaborate, and grow together!*
 
 
