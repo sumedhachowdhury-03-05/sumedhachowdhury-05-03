@@ -43,8 +43,8 @@ A sensor-based software system designed to detect unnoticed personal emergencies
 ---
 
 ## 🌱 Currently Learning  
-- HTML, CSS
-- React & Next.js  
+- HTML5
+- JavaScript ES6+ 
 - Blockchain development with Solidity  
 - Building clean and responsive user interfaces  
 
